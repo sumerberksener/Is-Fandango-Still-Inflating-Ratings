@@ -1,4 +1,4 @@
-# Is-Fandango-Still-Inflating-Ratings-
+# Is Fandango Still Inflating Ratings?
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator).
 Hickey found that there's a significant discrepancy between the number of stars displayed to users and the actual rating, which he was able to find in the HTML of the page.
 
